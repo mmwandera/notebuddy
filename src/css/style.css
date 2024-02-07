@@ -157,4 +157,10 @@
     --tr-easing-linear: cubic-bezier(0, 0, 1, 1);
     --tr-easing-emphasized: cubic-bezier(0.2, 0, 0, 1);
 
+    /**
+    * OTHERS
+    */
+
+    --sidebar-width: 360px;
+
 }
