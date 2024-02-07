@@ -136,4 +136,15 @@
     --shadow-4: 0px 2px 3px 0px #0000004d, 0px 6px 10px 4px #00000026;
     --shadow-5: 0px 4px 4px 0px #0000004d, 0px 8px 12px 6px #00000026;
 
+    /**
+    * BORDER RADIUS
+    */
+
+    --radius-extra-small: 4px;
+    --radius-small: 8px;
+    --radius-medium: 12px;
+    --radius-large: 16px;
+    --radius-extra-large: 28px;
+    --radius-full: 1000px;
+
 }
