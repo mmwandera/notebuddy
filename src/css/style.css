@@ -147,4 +147,14 @@
     --radius-extra-large: 28px;
     --radius-full: 1000px;
 
+    /**
+    * TRANSITION
+    */
+
+    --tr-duration-short: 200ms;
+    --tr-duration-medium: 400ms;
+    --tr-duration-long: 500ms;
+    --tr-easing-linear: cubic-bezier(0, 0, 1, 1);
+    --tr-easing-emphasized: cubic-bezier(0.2, 0, 0, 1);
+
 }
